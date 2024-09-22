@@ -21,7 +21,7 @@ Welcome to **Movies Hub**, the ultimate Movie Application designed to help you d
 - Fetch Movie Details.
 - **Authentication**: User registration, login, forgot password and profile editing.
 - **Save data to offline list**: After a user login, user can add/remove movies to offline list.
-- **Deploy on Azure**: Deployed Frontend and backend using Azure App Service.
+- **Deploy on Azure**: Deploy frontend and backend using Azure App Service.
 
 <br>
 <br>
